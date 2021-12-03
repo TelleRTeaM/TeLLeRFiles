@@ -97,7 +97,7 @@ TelleRTeaM =  "ٰوينۨہهۂَ خۡل احۡصرهۂَ 𖠙 😹♥️"
 Dev_Abs(msg.chat_id_, msg.id_, 1, TelleRTeaM, 1, 'md') 
 return false
 end
- if text =='احبك' or text == 'احبج'
+if text =='احبك' or text == 'احبج' then
 TelleRTeaM =  "ٰامـوت عليك/ج يـروحـي𖠙 😍♥️" 
 Dev_Abs(msg.chat_id_, msg.id_, 1, TelleRTeaM, 1, 'md') 
 return false
