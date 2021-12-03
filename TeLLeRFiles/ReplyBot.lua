@@ -97,6 +97,11 @@ TelleRTeaM =  "ٰوينۨہهۂَ خۡل احۡصرهۂَ 𖠙 😹♥️"
 Dev_Abs(msg.chat_id_, msg.id_, 1, TelleRTeaM, 1, 'md') 
 return false
 end
+ if text =='احبك' or text == 'احبج'
+TelleRTeaM =  "ٰامـوت عليك/ج يـروحـي𖠙 😍♥️" 
+Dev_Abs(msg.chat_id_, msg.id_, 1, TelleRTeaM, 1, 'md') 
+return false
+end
 if text == 'سورس عبس' or text == 'سورس بروكس' or text == 'سورس ديف بروكس' or text == 'سورس زربه' or text == 'السورس زربه' or text == 'سورس عاوي' or text == 'السورس عاوي' then 
 TelleRTeaM =  "لُِآ سوورس خآلُِتڪ دِي لُِڪ 𖠙 😒🔪" 
 Dev_Abs(msg.chat_id_, msg.id_, 1, TelleRTeaM, 1, 'md')
